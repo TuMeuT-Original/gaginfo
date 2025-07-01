@@ -1,5 +1,5 @@
-local event = true
-local cosmeticpos = "-285, 3, -26"
-local gearpos = "-286, 3, -14"
-local petspos = "-286, 3, -2"
-local eventpos = "-106, 4, -7"
+event = true
+cosmeticpos = "-285, 3, -26"
+gearpos = "-286, 3, -14"
+petspos = "-286, 3, -2"
+eventpos = "-106, 4, -7"
